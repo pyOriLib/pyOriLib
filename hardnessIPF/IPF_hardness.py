@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 21 21:07:07 2021
 
-@author: Doctorant
+@author: Qian WANG
 """
 # plot IPDF
 import numpy as np
