@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 21 21:07:07 2021
-
 @author: Qian WANG
+First, change the folder in line 45
 """
 # plot IPDF
 import numpy as np
